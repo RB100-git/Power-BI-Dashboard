@@ -22,7 +22,7 @@ Atliq is a computer hardware company which is facing challenges dynamically chan
 # **The insights**
 1) ***Revenue Trend*** -->The comparison between the revenue of a particular date with respect to the same date a year back to know how is the trend changing from previous year to this year .
 
-2) ***Tabular form of profit contribution %, total profit margin % and revenue*** -->The company should try to give special benefits to *Electronics* and *Excel stores* as they are their most profitable customers.
+2) ***Tabular form of profit contribution %, total profit margin % and revenue*** -->The company should try to give special benefits to *Electricalsara Stores* and *Excel stores* as they are their most profitable customers.
 
 3) ***Revenue contribution % by market and Profit contribution % by Markets*** -->To understand about markets, how is each contributing in the over all revenue and over all profit, this comparative study will pave the way to understand the data in much more better way. Consider making a sales strategy for *Lucknow* since it is showing lowest revenue and negative profit margin and if possible so as for *Surat* and *Bhubhaneshwar* also.
 
