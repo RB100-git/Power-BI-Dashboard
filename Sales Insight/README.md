@@ -37,6 +37,12 @@ Once we know the basic features of the data we have to work with, we imported th
 
 We got five tables and we need to ensure that the tables are correctly connected.
 
+Here's the star schema:
+
+![image](https://user-images.githubusercontent.com/102472369/215340182-05b221db-29e1-4eee-b455-65494793d06e.png)
+ 
+                        
+                        
 👉*Measures Created using DAX*
 
 “Revenue” and “Sales Qty” measures to get the sum of each column instantly in the dashboard.
