@@ -15,8 +15,13 @@ The CSV files that have been utilized here:
 
 ## Key Performance Indicators(KPIs) :
 **Revenue**: Total revenue realized
+
 **DSRN(Daily Sellable Room Nights)**--> (Total available rooms to sell) / (No. of days)
+
 **RevPAR (Revenue per available room)** --> (Total Revenue) / (Total available room)
+
 **Occupancy**--> (Total rooms occupied) / (Total rooms available)
+
 **ADR (Average Daily Rate)**--> (Rooms revenue earned) / (Number of rooms sold)
+
 **Realization**-->(Utilizable Room Nights) / (Booked Room Nights)
